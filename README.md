@@ -1,5 +1,7 @@
-<div style = "position: relative">
-    <p align="left" style = "position: absolute; right : 0"> 
+<link rel="stylesheet" href="styles.css">
+
+<div class = "container">
+    <p style = "position: absolute; right : 0"> 
         <img src="https://komarev.com/ghpvc/?username=namnguyen315&label=Profile%20views&color=0e75b6&style=flat" alt="namnguyen315" />
     </p>
     <h1 align="center" >Hi 👋, I'm Nguyen Thanh Nam</h1>
