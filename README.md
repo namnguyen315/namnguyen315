@@ -1,5 +1,6 @@
-<link rel="stylesheet" href="styles.css">
-
+<a href="#" target="_blank">
+  <img src="persionalDetails.svg" width="1200" alt="persionalDetails.svg" />
+</a>
 <div class = "container">
     <p style = "position: absolute; right : 0"> 
         <img src="https://komarev.com/ghpvc/?username=namnguyen315&label=Profile%20views&color=0e75b6&style=flat" alt="namnguyen315" />
