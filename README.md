@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="persionalDetails.svg" width="1200" alt="persionalDetails.svg" />
+  <img src="personalDetails.svg" width="1200" alt="personalDetails.svg" />
 </a>
 <div class = "container">
     <p style = "position: absolute; right : 0"> 
