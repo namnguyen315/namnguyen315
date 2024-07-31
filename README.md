@@ -64,6 +64,7 @@ IoT systems.
 
 - 🎛️ **Application and Tools:**
 
+  ![Figma](https://img.shields.io/badge/figma-ff7262?style=for-the-badge&logo=figma&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -73,4 +74,12 @@ IoT systems.
 
 </p>
 
-<br>
+## <img  src="gif/icon-contact.gif" width ="40" ><b> Connect with me</b>
+
+<div align = "center">
+
+<a href="https://www.facebook.com/profile.php?id=100012617140706">![Facebook](https://img.shields.io/badge/facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href = "mailto:namnguyen3152001xtnd@@gmail.com">![Gmail](https://img.shields.io/badge/gmail-c62320?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href = "https://zalo.me/0847807599">![Zalo](https://img.shields.io/badge/zalo-0068ff?style=for-the-badge&logo=zalo&logoColor=white)</a>
+
+</div>
